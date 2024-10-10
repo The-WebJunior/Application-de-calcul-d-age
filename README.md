@@ -32,3 +32,4 @@ bash
 npm start
 
 L'application sera alors accessible via http://localhost:3000/ dans votre navigateur.
+
