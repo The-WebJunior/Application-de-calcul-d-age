@@ -47,8 +47,8 @@ export default function Ages() {
   }
 
   return (
-    <div className=" flex justify-center items-center h-screen  ">
-      <div className=" rounded-br-[120px]  shadow-xl h-80 p-6 w-96   ">
+    <div className=" flex justify-center items-center bg-gray-100  h-screen">
+      <div className=" rounded-br-[120px]  shadow-xl h-80 p-6 w-96 bg-white  ">
         <form onSubmit={handleChange}>
           <div className="flex gap-4 mr-24">
             <div>
