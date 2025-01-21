@@ -35,16 +35,17 @@ Votre défi consiste à réaliser cette application de calcul d'âge et à la re
 
 
 git clone https://github.com/The-WebJunior/Application-de-calcul-d--ge.git
+
 2.Accédez au répertoire du projet :
 
-
 cd Application-de-calcul-d--ge
+
 3.Installez les dépendances :
+
 npm install
 
 
 Exécution du projet
-Pour démarrer l'application en mode développement, exécutez l'une des commandes suivantes :
 
 npm run dev 
 
